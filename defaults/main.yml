@@ -8,7 +8,6 @@ solr_version: "6.6.1"
 solr_mirror: "https://archive.apache.org/dist"
 solr_remove_cruft: false
 
-solr_service_manage: true
 solr_service_name: solr
 solr_service_state: started
 
